@@ -1,4 +1,4 @@
-### Hi, I´m Giovana. 👋 Full stack web dev with focus on Front-end development
+### Hi, I´m Giovana. 👋 Full stack web dev 
 <div align="center">
   <a href="https://github.com/GiovanaArisono">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiovanaArisono&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
